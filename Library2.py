@@ -1,0 +1,6 @@
+Ro=open("Library.txt","rt")
+print("\n",Ro.read()," \n")
+Ro.close()
+Ko=open("Library2.txt","rt")
+print("\n",Ko.read(),"\n")
+Ko.close()

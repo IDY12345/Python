@@ -1,0 +1,5 @@
+
+ History:20
+ Geography:29
+ Mathematics:25
+ Science:30
